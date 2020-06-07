@@ -1,6 +1,6 @@
 public class Main {
 
-  public String solveProblem(String input) {
+  public static String solveProblem(String input) {
     //Write your solution here and return the answer
   }
   public static void main(String[] args) {
